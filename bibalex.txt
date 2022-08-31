@@ -1,0 +1,9 @@
+Set maps.latitude and maps.longitude using decimal values:
+
+Bibliotheca Alexandrina
+
+https://geohack.toolforge.org/geohack.php?pagename=Bibliotheca_Alexandrina&params=31_12_32_N_29_54_33_E_region:EG-ALX_type:landmark
+
+31° 12′ 32″ N, 29° 54′ 33″ E (DMS)
+
+31.208889, 29.909167 (decimal)
